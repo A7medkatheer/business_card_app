@@ -62,7 +62,7 @@ class BusniessCardApp extends StatelessWidget {
                   color: Color(0xff274460),
                 ),
                 title: Text(
-                  '966 55 555 5555',
+                  '0120 490 4236',
                   style: TextStyle(
                     fontSize: 24,
                     color: Color(0xff274460),
@@ -96,7 +96,6 @@ class BusniessCardApp extends StatelessWidget {
                 ),
               ),
             ),
-            
           ],
         ),
       ),
